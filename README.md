@@ -1,7 +1,7 @@
 <div align="center">
 
 # <span style="color:#00E5FF;">Uday Kumar Bhilme</span>
-### <span style="color:#BD00FF;">AI & Full-Stack Developer • ML Sorcerer</span>
+### <span style="color:#BD00FF;">Full-Stack Developer • ML Sorcerer</span>
 
 <p style="color:#A0A0A0; max-width: 600px;">
 I build full-stack systems and machine learning pipelines with the reliability of a well-tuned cybernetic implant.  
