@@ -1,11 +1,15 @@
-<h1 align="center">✨ Uday Kumar Bhilme ✨</h1>
-<h3 align="center">AI & Full-Stack Developer • ML Sorcerer</h3>
+<div align="center">
 
-<p align="center">
+# 🌑 Uday Kumar Bhilme  
+### <span style="color:#9AE6FF;">Full-Stack Developer • ML Sorcerer</span>
+
+<p style="color:#A0AEC0;">
 I build full-stack web platforms, and occasionally my own sanity.<br>
 I evaluate ML models, fix their questionable life choices, and ship software that avoids exploding in production (most days).<br>
 Some people collect stamps; I collect error logs.
 </p>
+
+</div>
 
 ---
 
@@ -33,15 +37,15 @@ SGSITS, Indore
 
 ---
 
-## 🎨 Aesthetic Badges (Optional)
+## 🎨 Dark Mode Badges
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=48FF48"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+</div>
 
 ---
 
@@ -51,6 +55,8 @@ SGSITS, Indore
 - Developing alumni–student interaction platforms  
 - Managing life with caffeine and clean code  
 
-<p align="center">
-  <b>“Code like art. Debug like war. Ship like peace.”</b>
-</p>
+---
+
+<div align="center">
+  <i style="color:#9AE6FF; font-size: 18px;">“Code like art. Debug like war. Ship like peace.”</i>
+</div>
