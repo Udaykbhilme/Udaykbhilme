@@ -3,7 +3,7 @@
 # <span style="color:#00E5FF;">Uday Kumar Bhilme</span>
 ### <span style="color:#BD00FF;">SGSITS, Indore • Class of 2026</span>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2FwcCZjdD1n/L180pGIvRSJ66m66lk/giphy.gif" width="600px" alt="Manga Coding Animation">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRhdDllZ3lvdWNwcWJsN2JtaW11bnlycXRuNXgzNWJscTQ1ZzR1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3b5FC8Oqkvev6ZpDF9/giphy.gif" width="600px" alt="Manga Coding Animation">
 
 <p style="color:#A0A0A0; max-width: 600px;">
 Building full-stack systems and machine learning pipelines.  
