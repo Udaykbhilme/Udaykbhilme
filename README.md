@@ -32,5 +32,4 @@ Rookie Player whose's learning... ( shit, alot to learn 🥀)
     Debug like you're Harvery Specter.”
   </span>
   <br><br>
-  <img src="https://trojanczyk.eu/what-harvey-specter-taught-me-about-business/&height=100&section=footer" width="100%"/>
 </div>
