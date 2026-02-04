@@ -1,59 +1,30 @@
 <div align="center">
 
 # <span style="color:#00E5FF;">Uday Kumar Bhilme</span>
-### <span style="color:#BD00FF;">Full-Stack Developer • ML Sorcerer</span>
+### <span style="color:#BD00FF;">SGSITS, Indore • Class of 2026</span>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2FwcCZjdD1n/L180pGIvRSJ66m66lk/giphy.gif" width="600px" alt="Manga Coding Animation">
 
 <p style="color:#A0A0A0; max-width: 600px;">
-I build full-stack systems and machine learning pipelines with the reliability of a well-tuned cybernetic implant.  
-I debug models, repair their decision-making circuits, and ship code that survives the neon-lit chaos of production.  
-Error logs are my collectibles. Clean architectures are my aesthetic.
+Building full-stack systems and machine learning pipelines.  
+Currently deep in the labs, debugging the future.
 </p>
 
 </div>
 
 ---
 
-## <span style="color:#00E5FF;">Core Skills</span>
-**Programming:** Python, Java, SQL  
-**AI/ML:** TensorFlow, PyTorch, HuggingFace, Scikit-learn  
-**Web Development:** MERN Stack, Express, Flask, React  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, Power BI, Linux, late-night debugging rituals  
+## <span style="color:#00E5FF;">Currently Initializing...</span> 🧠
+<div align="left">
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF6eWp5amZ5amZ5amZ5amZ5amZ5amZ5amZ5amZ5amZ5amZ5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2FwcCZjdD1n/k39dfm7U6p4Yg/giphy.gif" width="150px">
 
----
-
-## <span style="color:#BD00FF;">Achievements</span>
-- Winner — Regional BhashaBandhu Hackathon (Govt. of India & Microsoft)  
-- Speaker — SIH Internal Hackathon  
-- NPTEL Elite — Data Analytics in Python  
-- Trained in Power BI, SQL, and Machine Learning (BRBRAITT)
-
----
-
-## <span style="color:#00E5FF;">Education</span>
-**B.Tech — Computer Science (Data Science Specialization)**  
-SGSITS, Indore  
-Graduation: 2026  
-
----
-
-## <span style="color:#BD00FF;">Neon Stack Badges</span>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=BD00FF"/>
-  <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=39FF14"/>
+  * **Deepening Neural Networks:** Mastering advanced transformer architectures.
+  * **Cloud Orchestration:** Learning to deploy the neon-city on AWS/Docker.
+  * **System Design:** Building architectures that don't crumble under pressure.
 </div>
 
----
-
-## <span style="color:#00E5FF;">Current Workload</span>
-- Enhancing ML evaluation and feedback loops  
-- Developing scalable full-stack MERN systems  
-- Building alumni–student networking frameworks  
-- Sustaining life on caffeine and high-performance code  
+> [!IMPORTANT]
+> **SYSTEM LOG:** This README was generated via AI interference. High-performance code, low-performance organic involvement.
 
 ---
 
@@ -62,4 +33,6 @@ Graduation: 2026
     “Write code like you're wiring a neon-lit city.  
     Debug like you're saving it.”
   </span>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BD00FF&height=100&section=footer" width="100%"/>
 </div>
