@@ -1,7 +1,7 @@
 <div align="center">
 
 # <span style="color:#00E5FF;">Uday Kumar Bhilme</span>
-### <span style="color:#BD00FF;">SGSITS, Indore • Class of 2026</span>
+### <span style="color:#BD00FF;">aka Vantage</span>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRhdDllZ3lvdWNwcWJsN2JtaW11bnlycXRuNXgzNWJscTQ1ZzR1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3b5FC8Oqkvev6ZpDF9/giphy.gif" width="600px" alt="Manga Coding Animation">
 
